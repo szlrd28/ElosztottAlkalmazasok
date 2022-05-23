@@ -1,6 +1,7 @@
 # ElosztottAlkalmazasok
 
 master branch -> Swing feladat
+
 konzol branch -> csak a feladat 1. része konzolon
 
 1.	Egy épületben vannak dolgozók, akik vagy portások vagy termelők.
