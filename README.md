@@ -1,5 +1,7 @@
 # ElosztottAlkalmazasok
+master branch -> Swing feladat
 
+konzol branch -> csak a feladat 1. része konzolon
 1.	Egy épületben vannak dolgozók, akik vagy portások vagy termelők.
 2.	Minden dolgozónak tudjuk a nevét és a fizetését.
 3.	A portásról tudjuk, hogy milyen műszakban dolgozik, a termelőnek a szakmáját ismerjük. 
