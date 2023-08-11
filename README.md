@@ -1,13 +1,13 @@
-# ElosztottAlkalmazasok
+# distributed application, Java OOP
 
-master branch -> Swing feladat
+master branch -> Swing task
 
-konzol branch -> csak a feladat 1. része konzolon
+console branch -> only the 1st part of the task on console
 
-1.	Egy épületben vannak dolgozók, akik vagy portások vagy termelők.
-2.	Minden dolgozónak tudjuk a nevét és a fizetését.
-3.	A portásról tudjuk, hogy milyen műszakban dolgozik, a termelőnek a szakmáját ismerjük. 
-4.	A dolgozók legyenek másolhatóak.
-5.	Az épülettől lehessen lekérni a dolgozók listáját alapértelmezetten név, de akár fizetés szerinti rendezésben is. 
-6.	Az épület archiválja napi szinten a jelenlévőit egy bináris állományba. 
-7.	Amikor „létrejön” egy épület, akkor aktualizálja magát, ha van létező bináris állomány.
+There are workers in a building who are either janitors or producers.
+We know the name and salary of every employee.
+We know the janitor's shift, we know the producer's profession.
+Workers should be copyable.
+The list of employees can be retrieved from the building by default by name, but also sorted by salary.
+The building archives its attendees in a binary file on a daily basis.
+When a building is "created", it updates itself if there is an existing binary.
